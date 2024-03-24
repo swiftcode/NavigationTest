@@ -19,6 +19,6 @@ extension UINavigationController {
         self.navigationBar.compactAppearance = appearance
         self.navigationBar.tintColor = .black
         
-        //UIBarButtonItem.appearance().tintColor = .white
+        UIBarButtonItem.appearance().tintColor = .black
     }
 }
